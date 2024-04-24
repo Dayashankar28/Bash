@@ -1,0 +1,13 @@
+total 36
+-rw-rw-r-- 1 ubuntu ubuntu   0 Apr 16 06:48 2.txt
+-rw-rw-r-- 1 ubuntu ubuntu   0 Apr 16 06:48 1.txt
+-rw-rw-r-- 1 ubuntu ubuntu 439 Apr 16 16:38 number.sh
+-rw-rw-r-- 1 ubuntu ubuntu 684 Apr 17 06:19 first.sh
+-rw-rw-r-- 1 ubuntu ubuntu 115 Apr 17 06:47 if_loop.sh
+-rwxrwxrwx 1 ubuntu ubuntu  54 Apr 17 15:21 1.sh
+-rwxrwxrwx 1 ubuntu ubuntu 553 Apr 17 15:43 for_loop.sh
+-rw-rw-r-- 1 ubuntu ubuntu 487 Apr 19 03:17 temp.txt
+-rwxrwxrwx 1 ubuntu ubuntu 493 Apr 19 06:09 while_loop.sh
+-rwxrwxrwx 1 ubuntu ubuntu 516 Apr 19 06:25 switch_case.sh
+-rwxrwxrwx 1 ubuntu ubuntu 218 Apr 19 17:18 fibo.sh
+-rw-rw-r-- 1 ubuntu ubuntu   0 Apr 19 17:18 file.txt
